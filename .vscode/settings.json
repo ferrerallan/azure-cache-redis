@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/cc7f12bc-c35c-425d-9e54-90d1b9a649e4/microsoft.web/sites/subscriptions/cc7f12bc-c35c-425d-9e54-90d1b9a649e4/resourceGroups/allan-web-app/providers/Microsoft.Web/sites/allan-test-redis"
+}
